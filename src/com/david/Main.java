@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         //1
-        //Mod para crear el primer commit de la Rama Prueba
+        //Mod para realizar el primer commit de la Rama Prueba
         //Cambios para Prueba
         //Juan
     }
